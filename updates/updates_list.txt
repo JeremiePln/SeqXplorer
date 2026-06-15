@@ -1,2 +1,4 @@
 1:update_test1.zip
 2:update_test2.zip
+3:update_test3.zip
+4:update_test4.zip
