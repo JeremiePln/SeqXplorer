@@ -1,1 +1,2 @@
-1:update_01.zip
+1:update_test1.zip
+2:update_test2.zip
