@@ -1,0 +1,23 @@
+# ==========================================
+# ENVIRONNEMENTS ET CACHE PYTHON
+# ==========================================
+venv/
+app_SeqXplorer/venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# ==========================================
+# DONNÉES LOCALES ET RÉSULTATS (SENSIBLES)
+# ==========================================
+Temp_Inputs/
+Temp_Inputs_*/
+Résultats_SeqXplorer/
+temp_maj/
+
+# ==========================================
+# FICHIERS SYSTÈMES ET DIVERS
+# ==========================================
+.DS_Store
+Thumbs.db
+historique_maj.txt
