@@ -3,3 +3,4 @@
 3:update_03.zip
 4:update_04.zip
 5:update_05.zip
+6:update_06.zip
