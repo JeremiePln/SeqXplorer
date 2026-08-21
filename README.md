@@ -1,4 +1,4 @@
-# SeqXplorer - Plateforme Bioinformatique Clinique
+# SeqXplorer - Plateforme Bioinformatique Clinique du CHU de Liège
 
 **SeqXplorer** est une suite logicielle d'analyse bioinformatique et de diagnostic automatisé, développée spécifiquement pour le CHU de Liège. Conçue autour d'une interface graphique simple et centralisée, elle permet aux biologistes de traiter des données de séquençage Sanger et de générer des rapports cliniques standardisés, le tout de manière autonome et rapide.
 
